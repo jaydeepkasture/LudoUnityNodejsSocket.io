@@ -18,18 +18,18 @@ NOTE:PASS AND PLAY OPTION IS NOT AVAILABLE YOU CAN EITHER PLAY IT ONLINE BY HOST
 ON A SERVER OF YOUR CHOICE LIKE HEROKU, AWS, AZUR, GOOGLE CLOUD. YOU CAN ALSO PLAY IT ON LAN.
 IF SOMETHING WENT WRONG CHECK THE PORT NO. IN UNITY SocketIO PERFAB INSIDE HIERARCHY AND IN server.js FILE IT SHOULD BE SAME.
 
-NOTE: AND FIREBASE WILL NOT WORK
+NOTE:FIREBASE WILL NOT WORK
 
 Nodejs Modules list:
-express
-socketio
-shortid
-nodemon
-debug
+express : https://www.npmjs.com/package/express
+socketio : https://www.npmjs.com/package/socket.io
+shortid : https://www.npmjs.com/package/shortid
+nodemon : https://www.npmjs.com/package/express
+debug : https://www.npmjs.com/package/debug
 
 Note: if your running the server on your local machine and debuging statment will not appear setup the npm node module by hiting the following command on:
 for 
 Windows:set DEBUG="test"
-      & for
+     
 MacOs and Linux : DEBUG=test
 
