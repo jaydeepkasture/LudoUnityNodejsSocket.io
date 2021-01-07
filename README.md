@@ -25,7 +25,7 @@ shortid
 nodemon
 debug
 
-Note: if your running the server on your local machine and debuging statment will not appear setup the by hitting the command on:
+Note: if your running the server on your local machine and debuging statment will not appear setup the npm node module by hiting the following command on:
 for Windows:set DEBUG="test"
 for MacOs and Linux : DEBUG=test
 
